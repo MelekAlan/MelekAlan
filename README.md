@@ -4,8 +4,8 @@
   <img src="https://github.com/MelekAlan/MelekAlan/blob/main/Aws-DevOps-Online-Training-1024x615.jpg">
 </p>
 
-<h3><b>B. Melek ALAN</h3>
-<hr>
+### B. Melek ALAN
+Devops Engineer | AWS Solution Architect | General Dentist
 
 - 🔭 I’m currently AWS Solution Architect Traniee at Clarusway IT School
 - 🌱 I’m currently learning cloud computing and devops tools
